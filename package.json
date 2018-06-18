@@ -1,0 +1,10 @@
+{
+  "name": "lambda-demo",
+  "version": "1.0.0",
+  "main": "handler.js",
+  "description": "Serverless Demo",
+  "dependencies": {
+    "aws-sdk": "^2.259.1",
+    "uuid": "^3.2.1"
+  }
+}
